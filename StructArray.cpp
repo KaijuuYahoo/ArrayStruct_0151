@@ -27,6 +27,7 @@ int main(){
         cin >> mhs[n].alamat.kota;
     };
 
+    
     cout<<endl;
     cout<< "Data Mahasiswa" << endl;
     for(int n = 0; n <2 ; n++){

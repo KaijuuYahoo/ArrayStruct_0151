@@ -26,6 +26,7 @@ int main(){
         cout<< "Masukkan ALAMAT KOTA = ";
         cin >> mhs[n].alamat.kota;
     };
+    
     cout<<endl;
     cout<< "Data Mahasiswa" << endl;
     for(int n = 0; n <2 ; n++){
@@ -33,5 +34,5 @@ int main(){
         cout << "NAMA = " << mhs[n].nama << endl;
         cout << "ALAMAT DESA= " << mhs[n].alamat.desa << endl;
         cout << "ALAMAT KOTA= " << mhs[n].alamat.kota << endl;
-    }
+    };
 }

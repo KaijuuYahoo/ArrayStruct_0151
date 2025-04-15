@@ -25,7 +25,7 @@ int main(){
 
     //Mengisi array dengan loop for
     for(int n=0;n<3;n++){
-        cout << "Data ke-" << n+1 << endl;
+        cout << "Datas ke-" << n+1 << endl;
         cout << "Data Mahasiswa = " << nama[n] << endl;
     }
 };

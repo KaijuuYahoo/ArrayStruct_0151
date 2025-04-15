@@ -1,5 +1,7 @@
 #include <iostream>
+
 #include <string>
+
 using namespace std;
 
 struct detailAlamat{
@@ -25,7 +27,7 @@ int main(){
     cout<< "Masukkan ALAMAT KOTA = ";
     cin >> mhs.alamat.kota;
 
-    
+
     cout<<endl;
     cout<< "Data Mahasiswa" << endl;
 

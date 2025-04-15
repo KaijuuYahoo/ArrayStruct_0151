@@ -22,8 +22,10 @@ int main(){
     cout<< "Masukkan ALAMAT = ";
     cin >> mhs.alamat;
 
+
     cout<<endl;
 
+    
     cout<< "NIM = " << mhs.nim << endl;
     cout << "NAMA = " << mhs.nama << endl;
     cout << "ALAMAT = " << mhs.alamat << endl;

@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+
+
+
+
+
+
 //Deklarasi array tanpa ukuran,wajib diisi data
 int nilai[]= {1,2,3};
 //Dekarasi array dengan ukuran, tidak wajib diisi data

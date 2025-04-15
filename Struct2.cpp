@@ -23,9 +23,11 @@ int main(){
     cout<< "Masukkan ALAMAT KOTA = ";
     cin >> mhs.alamat.kota;
 
+
     cout<<endl;
     cout<< "Data Mahasiswa" << endl;
 
+    
     cout<< "NIM = " << mhs.nim << endl;
     cout << "NAMA = " << mhs.nama << endl;
     cout << "ALAMAT DESA= " << mhs.alamat.desa << endl;

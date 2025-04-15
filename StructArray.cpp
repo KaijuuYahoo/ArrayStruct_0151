@@ -30,7 +30,7 @@ int main(){
     cout<<endl;
     cout<< "Data Mahasiswa" << endl;
     for(int n = 0; n <2 ; n++){
-        cout <<
+        cout << "Data ke -" << n+1 << endl;
         cout<< "NIM = " << mhs[n].nim << endl;
         cout << "NAMA = " << mhs[n].nama << endl;
         cout << "ALAMAT DESA= " << mhs[n].alamat.desa << endl;
